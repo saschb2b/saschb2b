@@ -1,7 +1,7 @@
 <p align='center'>
-<a href="https://twitter.com/saschb2b"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sascha-becker-7184a6147/"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://www.xing.com/profile/Sascha_Becker51"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/main/icon/xing.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/saschb2b"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sascha-becker-7184a6147/"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/master/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.xing.com/profile/Sascha_Becker51"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/master/icon/xing.png?raw=true"></a>
 </p>
 
 ### Hi there 👋
