@@ -1,11 +1,9 @@
-<p align='center'>
-<a href="https://twitter.com/saschb2b"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sascha-becker-7184a6147/"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/master/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.xing.com/profile/Sascha_Becker51"><img height="30" src="https://github.com/saschb2b/saschb2b/blob/master/icon/xing.png?raw=true"></a>
-</p>
+[![GitHub:saschb2b](https://img.shields.io/github/followers/saschb2b?label=follow&style=social)](https://github.com/saschb2b)
+[![Twitter:saschb2b](https://img.shields.io/twitter/follow/saschb2b?style=social)](https://twitter.com/saschb2b)
+[![Xing:Sascha_Becker](https://img.shields.io/badge/-Sascha_Becker-green?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Sascha_Becker51)](https://www.xing.com/profile/Sascha_Becker51)
+[![Linkedin:Sascha_Becker](https://img.shields.io/badge/-Sascha_Becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sascha-becker-7184a6147/)](https://www.linkedin.com/in/sascha-becker-7184a6147/)
 
 ### Hi there 👋
-
 <!--
 **saschb2b/saschb2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
