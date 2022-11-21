@@ -1,6 +1,5 @@
 [![GitHub:saschb2b](https://img.shields.io/github/followers/saschb2b?label=follow&style=social)](https://github.com/saschb2b)
 [![Twitter:saschb2b](https://img.shields.io/twitter/follow/saschb2b?style=social)](https://twitter.com/saschb2b)
-[![Xing:Sascha_Becker](https://img.shields.io/badge/-Sascha_Becker-green?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Sascha_Becker51)](https://www.xing.com/profile/Sascha_Becker51)
 [![Linkedin:Sascha_Becker](https://img.shields.io/badge/-Sascha_Becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sascha-becker-7184a6147/)](https://www.linkedin.com/in/sascha-becker-7184a6147/)
 
 ### Hi there 👋
