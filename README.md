@@ -8,7 +8,7 @@
 Software Engineer in Hannover, Germany. I ship React/TypeScript products, write about where frontend meets AI, and care a lot about code that still reads well in three years.
 
 - 🧑‍💻 Currently **Software Developer @ Schönhofer Sales and Engineering** (since Feb 2025)
-- 🏗️ Previously co-founded **Wertarbyte GmbH** (2018–2025) — building software for Funkwerk, McMakler, Verlag Dr. Otto Schmidt and others
+- 🏗️ Previously co-founded **Wertarbyte GmbH** — building software for Funkwerk, McMakler, Verlag Dr. Otto Schmidt and others
 - 🧩 ~10 years in full-stack JavaScript; focus on sustainable architecture, DX, and accessibility
 - ♿ Wheelchair user — accessibility isn't a nice-to-have for me, it's lived experience
 - ✉️ saschb2b@gmail.com · 🌐 [saschb2b.com](https://saschb2b.com)
