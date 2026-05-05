@@ -65,11 +65,11 @@ More projects at [saschb2b.com/projects](https://saschb2b.com/projects).
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-04` — [Five Models, One React Stack: Why Every LLM Builds the Same App](https://saschb2b.com/blog/llm-default-react-stack)
 - `2026-04-24` — [Stories, Not Braindumps](https://saschb2b.com/blog/stories-not-braindumps)
 - `2026-04-22` — [Hannover Messe 2026: When 'AI' Finally Stopped Being a Sticker](https://saschb2b.com/blog/hannover-messe-2026-ai)
 - `2026-04-22` — [The React Compiler at Eighteen Months: The Arc, the Debates, and What's Next](https://saschb2b.com/blog/react-compiler-year-in-review)
 - `2026-04-14` — [aig: Version Control Built for How AI Writes Code](https://saschb2b.com/blog/aig-version-control-for-ai)
-- `2026-04-09` — [Claude Mythos: The Model Too Dangerous to Release, or Too Good Not to Hype?](https://saschb2b.com/blog/claude-mythos-critical-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 → More at [saschb2b.com/blog](https://saschb2b.com/blog)
