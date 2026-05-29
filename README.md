@@ -65,11 +65,11 @@ More projects at [saschb2b.com/projects](https://saschb2b.com/projects).
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- `2026-05-28` — [A web app that thinks it's a desktop](https://saschb2b.com/blog/web-app-as-desktop)
 - `2026-05-19` — [The Flight Protocol Made Your DoS My Problem](https://saschb2b.com/blog/flight-protocol-dos)
 - `2026-05-12` — [The pull_request_target Trap](https://saschb2b.com/blog/pull-request-target-trap)
 - `2026-05-11` — [Questions Before Pixels](https://saschb2b.com/blog/questions-before-pixels)
 - `2026-05-04` — [Five Models, One React Stack: Why Every LLM Builds the Same App](https://saschb2b.com/blog/llm-default-react-stack)
-- `2026-04-24` — [Stories, Not Braindumps](https://saschb2b.com/blog/stories-not-braindumps)
 <!-- BLOG-POST-LIST:END -->
 
 → More at [saschb2b.com/blog](https://saschb2b.com/blog)
