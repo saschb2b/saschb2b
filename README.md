@@ -65,11 +65,11 @@ More projects at [saschb2b.com/projects](https://saschb2b.com/projects).
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-18` — [Open Knowledge Format: Just Markdown Your Agent Can Read](https://saschb2b.com/blog/open-knowledge-format)
+- `2026-06-18` — [Ticket Smells: How to Spot a Bad Slice Before You Pull It](https://saschb2b.com/blog/ticket-smells)
 - `2026-06-16` — [Eww, That Stinks! Introducing react-stinky](https://saschb2b.com/blog/react-stinky)
 - `2026-06-12` — [Same Same but Different: The Anatomy of AI Design Sameness](https://saschb2b.com/blog/same-same-but-different)
 - `2026-05-31` — [Autopilot: Claude as a Self-Directed Intern](https://saschb2b.com/blog/autopilot-skill)
-- `2026-05-28` — [A web app that thinks it's a desktop](https://saschb2b.com/blog/web-app-as-desktop)
-- `2026-05-19` — [The Flight Protocol Made Your DoS My Problem](https://saschb2b.com/blog/flight-protocol-dos)
 <!-- BLOG-POST-LIST:END -->
 
 → More at [saschb2b.com/blog](https://saschb2b.com/blog)
