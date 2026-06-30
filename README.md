@@ -65,11 +65,11 @@ More projects at [saschb2b.com/projects](https://saschb2b.com/projects).
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- `2026-06-29` — [There Is No Such Thing as a Verified Skill: Introducing trust-card](https://saschb2b.com/blog/trust-card)
 - `2026-06-24` — [Open Design System Format: Hand Your Design System to an Agent](https://saschb2b.com/blog/open-design-system-format)
 - `2026-06-18` — [Open Knowledge Format: Just Markdown Your Agent Can Read](https://saschb2b.com/blog/open-knowledge-format)
 - `2026-06-18` — [Ticket Smells: How to Spot a Bad Slice Before You Pull It](https://saschb2b.com/blog/ticket-smells)
 - `2026-06-16` — [Eww, That Stinks! Introducing react-stinky](https://saschb2b.com/blog/react-stinky)
-- `2026-06-12` — [Same Same but Different: The Anatomy of AI Design Sameness](https://saschb2b.com/blog/same-same-but-different)
 <!-- BLOG-POST-LIST:END -->
 
 → More at [saschb2b.com/blog](https://saschb2b.com/blog)
