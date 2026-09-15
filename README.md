@@ -65,11 +65,11 @@ More projects at [saschb2b.com/projects](https://saschb2b.com/projects).
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- `2026-09-14` — [Knowledge, reasoning, and style: Can AI keep them separate?](https://saschb2b.com/blog/knowledge-reasoning-style)
 - `2026-08-25` — [React Agentic Engineering 2026: The Tools Started Shipping Their Own Instructions](https://saschb2b.com/blog/react-agentic-engineering-2026)
 - `2026-07-31` — [Never Meet Your Model](https://saschb2b.com/blog/never-meet-your-model)
 - `2026-07-30` — [A 1986 Aircraft Manual Fixed My Anti-Slop Skill](https://saschb2b.com/blog/aircraft-manual-anti-slop)
 - `2026-07-21` — [Sascha - Compacting Experiences](https://saschb2b.com/blog/sascha-experiences-compacting)
-- `2026-07-12` — [Your Codebase Should Learn From Every Debugging Session](https://saschb2b.com/blog/breadcrumbs-self-healing-codebase)
 <!-- BLOG-POST-LIST:END -->
 
 → More at [saschb2b.com/blog](https://saschb2b.com/blog)
